@@ -3,7 +3,8 @@
 ## Optimization for Desktops
 One of the best system optimization program that improves any game frames and internet speed.<br>
 *For best results, launch this program at startup.*<br>
- 
+<img width="978" height="514" alt="image" src="https://github.com/user-attachments/assets/918e2dea-23bd-4683-b5d1-99a10d78ddf7" />
+
 **Requirements**<br>
 Windows 11<br>
 
